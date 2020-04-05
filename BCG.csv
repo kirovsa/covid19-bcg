@@ -1,0 +1,164 @@
+Country	IncomeLevel	Population 	Total COVID-19 Tests Administered (lower bound)	EndYear	COVID-19 Deaths 	case mortality	BCG % coverage	Policy	StartYear	year that universal vaccine stopped	
+China	3	1,386,000,000	320,000	81,008	3,255	0.040181217	no data	1	1949		
+Italy	4	60,480,000	206,886	47,021	4,032	0.085748921	no data	3	1970	2001	
+Spain	4	46,660,000	30,000	25,374	1,378	0.054307559		2	1965	1981	
+Germany	4	82790000	167,000	21,652	73	0.003371513		2	1961	1998	
+Iran	3	81,160,000	80,000	20,610	1,556	0.075497331	99.50%	1	1984		
+United States	4	327200000	103,945	19,909	276	0.013863077		3			
+France	4	66990000	36,747	12,612	450	0.035680304		2	1950	2007	
+South Korea	4	51470000	316,664	8,799	102	0.011592226	85%	1	1970		
+Switzerland	4	8570000	4,000	6,113	56	0.009160805		2	1960's	1987	
+United Kingdom	4	66440000	64,621	4,000	178	0.0445		2	1953	2005	
+Netherlands	4	17180000	6,000	3,640	137	0.037637363		3	no data	1979	
+Belgium	4	11400000	18,360	2,815	67	0.023801066		3	no data	1989	
+Austria	4	8822000	15,613	2,814	8	0.002842928		2	1952	1990	
+Norway	4	5368000	43,735	2,017	7	0.003470501		2	1947	2009	
+Sweden	4	10120000	14,300	1,746	20	0.011454754		2	1940	1975	
+Denmark	4	5603000	10,730	1,420	13	0.00915493	>80%	2	1946	1986	
+Portugal	4	1029000		1,280	12	0.009375	no data	1	1965		
+Malaysia	3	31620000		1,183	8	0.006762468	98%	1	1961	no data	
+Canada	4	37590000	54,956	1,085	12	0.011059908		2	1943	1965	
+Australia	4	24600000		1,051	7	0.006660324	no data from WHO	2	1955	1985	
+Japan	4	126800000	14,901	1,007	35	0.034756703		1	1947		
+Brazil	3	209300000	2927	999	12	0.012012012	86.90%	1	1920		
+Czechia	4	10650000	11619	925	0	0	80%	2	1953	2010	
+Israel	4	8,655,535	10864	883	1	0.001132503	90%	2	1955	1982	
+Ireland	4	4,937,786	6600	683	3	0.004392387	94%	1	1955		
+Luxembourg	4	625,978		670	8	0.011940299	no data from WHO	2			
+Turkey	3	84,339,067	2900	670	9	0.013432836	94%	1	1952		
+Pakistan	2	220,892,340	1969	666	3	0.004504505	86%	1	1942		https://apps.who.int/immunization_monitoring/globalsummary/estimates?c=PAK
+Chile	4	19,116,201		537	0	0	97.80%	1	between 1947-1949		
+Finland	4	5,540,720	3000	521	1	0.001919386	98%	2	1941	2006	
+Greece	4	10,423,054		495	13	0.026262626		1	no data 	1990 the data stopped?	
+Qatar	4	2,881,053	8400	470	0	0	99%	1			
+Poland	4	37,846,611	13072	452	5	0.011061947	93.70%	1	1955		
+Indonesia	2	273,523,615	2028	450	38	0.084444444	81%	1	1956		https://apps.who.int/immunization_monitoring/globalsummary/estimates?c=IDN
+Singapore	4	5,850,342		432	2	0.00462963	97%	1	1950s		
+Ecuador	3	17,643,054		426	7	0.016431925		2			
+Thailand	3	69,799,978	1951	411	1	0.00243309	99%	1	1977		
+Iceland	4	341,243	9189	409	0	0		--			
+Saudi Arabia	4	34,813,871		392	0	0	98%	1	1968		
+Romania	3	19,237,691	8284	367	0	0	90%	1	1928		
+Slovenia	4	2,078,938	9860	341	1	0.002932551	96%	2	1947	2005	
+Philippines	2	109,581,078	1,269	307	19	0.061889251	75%	1	1951		https://apps.who.int/immunization_monitoring/globalsummary/estimates?c=PHL
+Bahrain	4	1,701,575		306	1	0.003267974		1			
+Estonia	4	1,326,535	2504	306	0	0	90%	1	1945		
+Egypt	2	102,334,404		285	8	0.028070175	95%	1			
+India	2	1,380,004,385	14514	283	4	0.014134276	99%	1	1951-1959		
+Hong Kong	4	7,496,981	5271	273	4	0.014652015	99%	1			
+Peru	3	32,971,854		263	4	0.015209125	80%	1			
+Russia	3	145,934,462	143,519	253	0	0	95%	1	1945		https://www.who.int/immunization/sage/meetings/2017/october/1_BCG_report_revised_version_online.pdf
+South Africa	3	59,308,690	6438	240	0	0	90.50%	1	1973		
+Iraq	3	40,222,493		208	17	0.081730769	95%	1			
+Mexico	3	128,932,753	278	203	2	0.009852217	95%	1	1951		
+Panama	4	4,314,767	1455	200	1	0.005	99%	1	1949		https://apps.who.int/immunization_monitoring/globalsummary/estimates?c=PAN
+Lebanon	3	6,825,445		187	4	0.021390374		3			
+Croatia	4	4,105,267	1264	168	0	0	98.60%	1	1948		
+Armenia	3	2,963,243	1246	160	0	0	94%	1			highlighting orange because not the most reliable source
+Kuwait	4	4,270,571		159	0	0		1			
+Argentina	3	45,195,774		158	3	0.018987342	95%	1			
+Colombia	3	50,882,891	4103	158	0	0	80-90%	1	1960		
+Taiwan	4	23,816,775	21,376	153	2	0.013071895	98.40%	1	1951		
+San Marino	4	33,931		151	14	0.092715232		1			
+Serbia	3	8,737,371		149	1	0.006711409	98%	1			https://apps.who.int/immunization_monitoring/globalsummary/estimates?c=SRB
+Bulgaria	3	6,948,445		142	3	0.021126761	98%	1			
+United Arab Emirates	3	9,890,402	125,000	140	2	0.014285714		1			
+Slovakia	4	5,459,642	2707	137	0	0	90%	2	1953	2001	
+Latvia	4	1920000	3205	124	0	0	96.10%	1	1940		
+Costa Rica	3	4906000	1039	113	2	0.017699115	77%	1			
+Uruguay	4	3457000		110	0	0	99.90%	1	1980		
+Hungary	4	9773000	3007	103	4	0.038834951	100%	1	1953		
+Algeria	3	41320000		95	12	0.12631579	33%	1			
+Vietnam	2	95540000	15,637	91	0	0	93%	1	1985		
+Bosnia and Herzegovina	3	3507000		89	0	0	95%	1	1950		
+Morocco	2	35740000		86	3	0.034883721	100%	1			
+Jordan	3	9702000		85	0	0	94%	1			
+North Macedonia	3	2077000		85	0	0	97%	1			
+Brunei	4			83	0	0	99%	1			
+Albania	3			76	2	0.026315789	99%	1			
+Belarus	3	9508000	16000	76	0	0	98%	1	1950		
+Andorra	4			75	0	0		1			
+Cyprus	4			75	0	0	no data from WHO	1			
+Malta	4	493,559	889	73	0	0		1			
+Dominican Republic	3			72	2	0.027777778	99%	1			
+Sri Lanka	3			72	0	0	99%	1			
+Lithuania	4	2794000	1154	69	1	0.014492754	Fma -- 96%	1	1945		
+Moldova	2			66	1	0.015151515		1			
+Burkina Faso	1			64	3	0.046875	98%	1			
+Tunisia	2			60	1	0.016666667	92%	1			
+Kazakhstan	3			53	0	0	95%	1			
+New Zealand	4	4794000	584	52	0	0		2	1948	1963	
+Oman	4			52	0	0	99%	1			
+Cambodia	2			51	0	0	93%	1			
+Georgia	3			48	0	0	97%	1			
+Palestine				48	0	0		1			
+Senegal	2			47	0	0	83%	1			data from 2018, drop in coverage
+Azerbaijan	3			44	1	0.022727273	97%	1			
+Venezuela	3			42	0	0	92%	1			
+Ukraine	2	42220000	316	41	3	0.073170732	15-45%%	1	1945		
+Uzbekistan	2			33	0	0		1			
+Liechtenstein	4	38,128	-	28	0	0		1			
+Cameroon	2	26,545,863	-	27	0	0	88%	1			
+Afghanistan	1	38,928,346	-	24	0	0	46%	1			
+Bangladesh	2	164,689,383	-	24	2	0.083333333	99%	1	1979		
+Honduras	2	9,904,607	-	24	0	0	94%	1			
+Democratic Republic of the Congo	1	89,561,403	-	23	1	0.043478261	83%	1			
+Nigeria	2	206,139,589	-	22	0	0	85%	1	1991		
+Cuba	3	11,326,616	-	21	1	0.047619048	99%	1			
+Kosovo	3	1,810,366	-	21	0	0	no data	1			
+Bolivia	2	11,673,021	-	19	0	0	90%	1			
+Ghana	2	31,072,940	-	19	0	0	98%	1			
+Jamaica	3	2,961,167	-	19	1	0.052631579	93%	1			
+Paraguay	3	7,132,538	-	18	0	0	91%	1			
+Macao	4	649,335	-	17	0	0		1			
+Rwanda	1	12,952,218	-	17	0	0	95%	1	1956		
+CÃ´te d'Ivoire	2	26,378,274	-	14	0	0	98%	1			
+Mauritius	3	4,649,658	-	14	1	0.071428571	99%	1			
+Montenegro	3	628,066	-	14	0	0	no data	1			
+Maldives	3	540,544	-	13	0	0	99%	1			
+Guatemala	3	17,915,568	-	12	1	0.083333333	88%	1			
+Monaco	4	39,242	-	11	0	0	89%	1			
+Mongolia	2	3,278,290	-	10	0	0	98.6	1	1948		
+Ethiopia	1	114,963,588	-	9	0	0	69%	1	early 1980s		
+Togo	1	8,278,724	-	9	0	0	83%	1			
+Trinidad and Tobago	4	1,399,488	-	9	0	0	no data	1			
+Kenya	2	53,771,296	-	7	0	0	80%	1			
+Seychelles	4	98,347	-	7	0	0	97%	1			
+Equatorial Guinea	3	1,402,985	-	6	0	0	63%	1			
+Kyrgyzstan	2	6,524,195	1545	6	0	0	97%	1	1945		
+Tanzania	1	59,734,218	-	6	0	0	100%	1	1975		
+Barbados	4	287,375	-	5	0	0	no data	1	may have stopped giving it, need to confirm		
+Gabon	3	2,225,734	-	4	0	0	87%	1			
+Guyana	3	786,552	-	4	1	0.25	99%	1			
+Suriname	3	586632		4	0	0	No data	1			
+The Bahamas	4	393244		4	0	0	No data	1			
+Cape Verde	2	555987		3	0	0	96%	1			
+Central African Republic	1	4829767		3	0	0	74%	1			
+El Salvador	2	6486205		3	0	0	85.40%	1	1970		
+Liberia	1	5057681		3	0	0	92%	1			
+Madagascar	1	27691018		3	0	0	70%	1			
+Namibia	3	2540905		3	0	0	94%	1			
+Republic of the Congo	1	89561403		3	0	0	83%	1			
+Zimbabwe	2	14862924		3	0	0	95%	1			
+Angola	2	32866272		2	0	0	90%	1	1979		
+Benin	1	12123200		2	0	0	89%	1			
+Bhutan	2	771608		2	0	0	95%	1	1979		
+Fiji	3	896445		2	0	0	99%	1			
+Haiti	1	11402528		2	0	0	70%	1	No data		
+Isle of Man	4	85033		2	0	0	No data	1			
+Mauritania	2	4649658		2	0	0	90%	1			
+Saint Lucia	3	183627		2	0	0	99%	1			
+Sudan	2	43849260		2	1	0.5	77%	1	1976		
+Zambia	2	18383955		2	0	0	91%	1			
+Antigua and Barbuda	4	97929		1	0	0	No data	1			
+Chad	1	16425864		1	0	0	59%	1			
+Djibouti	2	988000		1	0	0	93%	1			
+Eswatini	2	1160164		1	0	0	98%	1			
+Guinea	1	13132795		1	0	0	72%	1			
+Nepal	1	29136808		1	0	0	96%	1	No data		
+Nicaragua	2	6624554		1	0	0	98%	1			
+Niger	1	206139589		1	0	0	87%	1			
+Papua New Guinea	2	8947024		1	0	0	69%	1			
+Saint Vincent and the Grenadines	3	110940		1	0	0	99%	1			
+Somalia	1	15893222		1	0	0	37%	1			
+The Gambia	1	2416668		1	0	0	99%	1	1979		
